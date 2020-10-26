@@ -1,4 +1,4 @@
-An absolute bare-bones web app.
+A To-Do list web app made using dart.
 
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+Tags can be created with different colors to help organize tasks.
+They can also be dragged and reordered for better organization.
